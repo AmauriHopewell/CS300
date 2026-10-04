@@ -1,3 +1,5 @@
+CS-499 Milestone Three (branch cs499-milestone-three): original CS-300 files are still here. The enhanced catalog (BST, hash map, compare mode, topological schedule) is in enhanced/. GitHub Pages is not updated yet.
+
 Amauri Hopewell CS300 
 This repository contains the code for loading a data file containing course information,
 storing it, sorting it, and allowing the user to see a course or see all courses available. 

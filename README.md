@@ -1,0 +1,1 @@
+**CS-499 Milestone Three (branch `cs499-milestone-three`):** original CS-300 catalog is still `Proj2.cpp` at the repo root. The layered enhancement (vector baseline, BST, hash map, compare mode, topological schedule) is in [`enhanced/`](enhanced/). Build with `/O2` as that folder’s README says. GitHub Pages is not updated yet.
